@@ -1,0 +1,9 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.pem
+web
+web.pub
+instance_state.txt
+on_failure_state.txt
